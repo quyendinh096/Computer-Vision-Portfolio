@@ -59,10 +59,8 @@ Encourage students to delve into the historical development of computer vision a
 
 - **Description:** A detailed timeline project focusing on the historical development of computer vision from the 1960s.
 - **Significance:** Illustrated the evolution of computer vision, highlighting key figures, technological advancements, and applications.
-- **Repository Link:** [Historical Timeline Project](https://github.com/your-username/Computer-Vision-Portfolio/Module1_Intro_Computer_Vision/Projects/Historical_Timeline)
+- **Repository Link:** 
 - **Visuals:** Included timeline graphics and presentation recordings.
-
-![Timeline Diagram](Images/timeline.png)
 
 ### Project Highlights
 
