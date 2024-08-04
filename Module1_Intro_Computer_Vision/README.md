@@ -59,7 +59,7 @@ Encourage students to delve into the historical development of computer vision a
 
 - **Description:** A detailed timeline project focusing on the historical development of computer vision from the 1960s.
 - **Significance:** Illustrated the evolution of computer vision, highlighting key figures, technological advancements, and applications.
-- **Repository Link:** 
+- **Repository Link:** A01_AI_Hawks_Jaya_Verma_ITAI1378.pdf
 - **Visuals:** Included timeline graphics and presentation recordings.
 
 ### Project Highlights
@@ -67,9 +67,8 @@ Encourage students to delve into the historical development of computer vision a
 1. **Historical Timeline of Computer Vision**
    - **Description:** This project presents a timeline of computer vision advancements, emphasizing technological milestones and key figures.
    - **Significance:** Demonstrates the progression of computer vision and its influence on modern technology.
-   - **Direct Link:** [A01_AI_Hawks_Jaya_Verma_ITAI1378.pdf](https://github.com/user-attachments/files/16486325/A01_AI_Hawks_Jaya_Verma_ITAI1378.pdf)
-   - **Visuals:** [![Timeline Diagram](Projects/Historical_Timeline/timeline_diagram.png)](https://github.com/your-username/Computer-Vision-Portfolio/Module1_Intro_Computer_Vision/Projects/Historical_Timeline)
-
+   - **Direct Link:** A01_AI_Hawks_Jaya_Verma_ITAI1378.pdf
+   - **Visuals:** A01_AI_Hawks_Jaya_Verma_ITAI1378.pdf
 2. **Computer Vision in Healthcare**
    - **Description:** Explores computer vision applications in medical imaging and diagnostics.
    - **Significance:** Highlights the transformative potential of CV in healthcare, improving diagnostic accuracy and patient care.
