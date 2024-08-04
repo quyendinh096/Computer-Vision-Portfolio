@@ -65,5 +65,4 @@ Encourage students to delve into the historical development of computer vision a
 1. **Historical Timeline of Computer Vision**
    - **Description:** This project presents a timeline of computer vision advancements, emphasizing technological milestones and key figures.
    - **Significance:** Demonstrates the progression of computer vision and its influence on modern technology.
-   - **Direct Link:** [Historical Timeline of Computer Vision (PDF)](https://github.com/quyendinh096/Computer-Vision-Portfolio/blob/9637d294a1b70e00235e73a0ee8d6a08dab8b185/A01_AI_Hawks_Jaya_Verma_ITAI1378.pdf)
-
+   - **Direct Link:** [Historical Timeline of Computer Vision](https://github.com/quyendinh096/Computer-Vision-Portfolio/blob/6bee81a5384201e1f63ceb8a3bf604a250e33153/Module1_Intro_Computer_Vision/A01_AI_Hawks_Jaya_Verma_ITAI1378.pdf)
