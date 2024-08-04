@@ -67,3 +67,16 @@ Encourage students to delve into the historical development of computer vision a
    - **Significance:** Demonstrates the progression of computer vision and its influence on modern technology.
    - **Direct Link:** A[01_AI_Hawks_Jaya_Verma_ITAI1378.pdf](https://github.com/quyendinh096/Computer-Vision-Portfolio/blob/9637d294a1b70e00235e73a0ee8d6a08dab8b185/A01_AI_Hawks_Jaya_Verma_ITAI1378.pdf)
   
+cp /path/to/your/historical_report.pdf Module1_Intro_Computer_Vision/PDFs/
+git add Module1_Intro_Computer_Vision/PDFs/historical_report.pdf
+git commit -m "Added historical timeline PDF to Module 1"
+git push origin main
+## PDF Resources
+
+- [Historical Timeline of Computer Vision (PDF)](PDFs/historical_report.pdf)
+git add Module1_Intro_Computer_Vision/README.md
+git commit -m "Updated README with PDF link"
+git push origin main
+git add Module1_Intro_Computer_Vision/README.md
+git commit -m "Updated README with PDF link"
+git push origin main
