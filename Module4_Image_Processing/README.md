@@ -40,6 +40,6 @@ This module covers the fundamental concepts and techniques of image processing, 
 
 - **Project: Image Processing Adventure Quest**
   - **Description:** A creative project to explore image processing realms and solve challenges.
-  - **Repository:** [Link to Project](https://github.com/your-username/Image-Processing-Portfolio/Module4_Image_Processing/Projects/Image_Processing_Adventure_Quest)
+  - **Repository:** [Link to Project](https://github.com/quyendinh096/Computer-Vision-Portfolio/blob/473dee7ccb84c18a45b46f802df302ec69fb0418/Module4_Image_Processing/A01_AI_Hawks_Jaya_Verma_ITAI1378.pdf)
 
 
