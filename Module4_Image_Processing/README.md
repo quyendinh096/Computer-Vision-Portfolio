@@ -31,11 +31,6 @@ This module covers the fundamental concepts and techniques of image processing, 
 - **Objective:** Explore fundamental image processing concepts through a creative and interactive adventure quest.
 - **Significance:** Gain hands-on experience with image processing techniques and tools.
 
-## Resources
-
-- **[PDF: Image Processing Techniques](PDFs/Image_Processing_Techniques.pdf)**
-- **[Video: Introduction to OpenCV and Pillow](https://example.com/video_opencv_pillow)**
-
 ## Projects
 
 - **Project: Image Processing Adventure Quest**
