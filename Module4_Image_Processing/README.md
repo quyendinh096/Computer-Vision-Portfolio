@@ -53,6 +53,6 @@ This project involves embarking on an "Image Processing Adventure Quest," where 
 - **Land of Image Enhancement**
   - Challenge: Create before-and-after images demonstrating enhancement techniques.
 
-## Project Files: [Link to Project](https://github.com/quyendinh096/Computer-Vision-Portfolio/blob/473dee7ccb84c18a45b46f802df302ec69fb0418/Module4_Image_Processing/A01_AI_Hawks_Jaya_Verma_ITAI1378.pdf)
+## Project Files: [A04 "Image Processing Adventure Quest"](https://github.com/quyendinh096/Computer-Vision-Portfolio/blob/473dee7ccb84c18a45b46f802df302ec69fb0418/Module4_Image_Processing/A01_AI_Hawks_Jaya_Verma_ITAI1378.pdf)
 
 
