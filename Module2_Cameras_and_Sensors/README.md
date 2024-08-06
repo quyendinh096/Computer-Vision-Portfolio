@@ -2,12 +2,7 @@
 
 ## Overview
 
-This module explores the different types of cameras and sensors used in computer vision, including their specifications, applications, and calibration.
-# Overview of Computer Vision
-
-## Introduction
-
-Computer vision involves using computers to analyze and interpret visual data from the world. It encompasses various techniques including image recognition, object detection, and segmentation. Data preprocessing plays a crucial role in improving the accuracy and reliability of computer vision models by cleaning and transforming raw data.
+Computer vision involves using computers to analyze and interpret visual data from the world. It encompasses various techniques including image recognition, object detection, and segmentation. Data preprocessing plays a crucial role in improving the accuracy and reliability of computer vision models by cleaning and transforming raw data. This module explores the different types of cameras and sensors used in computer vision, including their specifications, applications, and calibration.
 
 ## Key Concepts
 
@@ -40,12 +35,15 @@ Dividing an image into multiple segments or regions, each representing a differe
 
 - **RGB Cameras**
   - Capture full-color images; used for object detection, facial recognition, and traffic monitoring.
+  - Commonly used for full-color image capture.
 
 - **Depth Cameras**
   - Generate 3D maps by measuring distances; used in gesture recognition, robotics, and augmented reality.
+  - Provide 3D mapping of environments.
 
 - **Thermal Cameras**
   - Capture heat emitted by objects; useful in complete darkness and challenging weather conditions.
+  - Detect heat for applications like surveillance.
 
 - **Stereo Cameras**
   - Use two or more cameras to capture 3D images; employed in autonomous vehicles and mapping.
@@ -100,12 +98,6 @@ Dividing an image into multiple segments or regions, each representing a differe
 
 4. **Camera Specifications:**
    - Understanding resolution, frame rate, and field of view.
-
-### Types of Cameras
-
-- **RGB Cameras:** Commonly used for full-color image capture.
-- **Depth Cameras:** Provide 3D mapping of environments.
-- **Thermal Cameras:** Detect heat for applications like surveillance.
 
 ### Types of Sensors
 
