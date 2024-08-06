@@ -1,4 +1,4 @@
-# Module 7: Transfer Learning & CNN Core Architectures
+# Module 8: Transfer Learning & CNN Core Architectures
 
 ## Overview
 
