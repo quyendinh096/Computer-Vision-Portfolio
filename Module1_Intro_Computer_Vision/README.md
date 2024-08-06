@@ -2,8 +2,6 @@
 
 ## Overview
 
-### Module Content
-
 Computer Vision (CV) is a rapidly growing field in computer science that focuses on enabling computers to interpret and make decisions based on visual data. This module explores the foundational elements of CV, including its history, key figures, technological advancements, and its integration with artificial intelligence (AI).
 
 **Topics Covered:**
