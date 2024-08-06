@@ -108,5 +108,3 @@ Dividing an image into multiple segments or regions, each representing a differe
 
 - Importance of intrinsic and extrinsic parameters.
 - Methods for accurate camera calibration and setup.
-
-
