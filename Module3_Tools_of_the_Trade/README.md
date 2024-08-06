@@ -40,6 +40,6 @@ This module explores the various libraries, frameworks, and integrated developme
 
 - **Project: Practical Exploration of Jupyter and GitHub**
   - **Description:** Hands-on experience with Jupyter Notebooks and GitHub integration.
-  - **Project download:** [Download project](https://github.com/quyendinh096/Computer-Vision-Portfolio/blob/bc7cb30a6b20351b94be7a8431b39c9ffadf6047/Module3_Tools_of_the_Trade/L03a_QuyenDinh_ITAI1378%20(1)%20(1).docx)
-  -  **Repository:** [Link to project](https://github.com/quyendinh096/jupyter-exploration..git)
+  - **Project Repository:** [L03 Lab ITAI 1378](https://github.com/quyendinh096/Computer-Vision-Portfolio/blob/bc7cb30a6b20351b94be7a8431b39c9ffadf6047/Module3_Tools_of_the_Trade/L03a_QuyenDinh_ITAI1378%20(1)%20(1).docx)
+
 
