@@ -20,4 +20,4 @@ This repository contains a collection of projects and assignments from the Compu
 - [Module 10: Video Analysis](Module10_Video_Analysis/README.md)
 - [Module 11: Generative AI](Module11_Generative_AI/README.md)
 - [Module 12: Autonomous Systems](Module12_Autonomous_Systems/README.md)
-- [Midterm, Individual Portfolio & Capstone Instructions](https://github.com/quyendinh096/Computer-Vision-Portfolio/blob/d0a5ec35b3e47bf66b750c5d32cdd4229f603d73/Midterm%2C%20Individual%20Portfolio%20%26%20Capstone%20Instructions/README.md)
+- [Midterm, Individual Portfolio & Capstone Instructions](Midterm,_Individual_Portfolio_&_Capstone_Instructions/README.md)
