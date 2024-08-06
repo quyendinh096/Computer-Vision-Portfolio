@@ -31,10 +31,34 @@ This module covers the fundamental concepts and techniques of image processing, 
 - **Objective:** Explore fundamental image processing concepts through a creative and interactive adventure quest.
 - **Significance:** Gain hands-on experience with image processing techniques and tools.
 
-## Projects
+# Project: Image Processing Adventure Quest
 
-- **Project: Image Processing Adventure Quest**
-  - **Description:** A creative project to explore image processing realms and solve challenges.
-  - **Repository:** [Link to Project](https://github.com/quyendinh096/Computer-Vision-Portfolio/blob/473dee7ccb84c18a45b46f802df302ec69fb0418/Module4_Image_Processing/A01_AI_Hawks_Jaya_Verma_ITAI1378.pdf)
+## Description
+
+This project involves embarking on an "Image Processing Adventure Quest," where participants explore different realms of image processing, solve challenges, and present their findings creatively.
+
+## Objectives
+
+- Understand fundamental image processing concepts.
+- Explore various image processing techniques and tools.
+
+## Challenges
+
+- **Realm of Pixels and Color Models**
+  - Challenge: Create a visual poster explaining pixels and color models.
+
+- **Kingdom of Image Formats**
+  - Challenge: Design a "royal banquet" menu representing different image formats.
+
+- **Land of Image Enhancement**
+  - Challenge: Create before-and-after images demonstrating enhancement techniques.
+
+## Deliverables
+
+- **Creative Presentation:** Skit, comic strip, video, or storybook showcasing findings.
+- **Visual Aids:** Posters, images, or props used in presentations.
+- **Reflection:** A one-page reflection from each group member on the quest.
+
+## Project Files: [Link to Project](https://github.com/quyendinh096/Computer-Vision-Portfolio/blob/473dee7ccb84c18a45b46f802df302ec69fb0418/Module4_Image_Processing/A01_AI_Hawks_Jaya_Verma_ITAI1378.pdf)
 
 
